@@ -9,22 +9,24 @@ Um rapaz cada vez mais apaixonado pelo mundo Dev</p>*
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioscn&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Neto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Neto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Neto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Neto-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Neto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/antonioscn/antonioscn/main/icons/html5-brands.svg">
+  <img align="center" alt="Neto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/antonioscn/antonioscn/main/icons/css3-alt-brands.svg">
   <img align="center" alt="Neto-JavaS" height="30" width="40" src="https://github.com/antonioscn/antonioscn/raw/main/icons/js-square-brands.svg">
   <img align="center" alt="Neto-Angular" height="30" width="40" src="https://raw.githubusercontent.com/antonioscn/antonioscn/main/icons/angular-brands.svg">
-  <img align="center" alt="Neto-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Neto-node" height="30" width="40" src="https://raw.githubusercontent.com/antonioscn/antonioscn/main/icons/node-brands.svg">
+  <img align="center" alt="Neto-figma" height="30" width="40" src="https://raw.githubusercontent.com/antonioscn/antonioscn/main/icons/figma-brands.svg">
+  <img align="center" alt="Neto-Python" height="30" width="40" src="https://raw.githubusercontent.com/antonioscn/antonioscn/main/icons/python-brands.svg">
+  <img align="center" alt="Neto-R" height="30" width="40" src="https://raw.githubusercontent.com/antonioscn/antonioscn/main/icons/r-project-brands.svg">
+  <img align="center" alt="Neto-Git" height="30" width="40" src="https://raw.githubusercontent.com/antonioscn/antonioscn/main/icons/git-alt-brands.svg">
    <img align="right" alt="Neto-pic" height="150" style="border-radius:50px;" 
   src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 </div>
 
-
   ##
 
- 
  <p align="center"> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/dataneto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
