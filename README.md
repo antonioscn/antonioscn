@@ -1,4 +1,4 @@
-## <p align="center">*OI, PODE ME CHAMAR DE NETO. 👋*</p>
+## <p align="center">*Oi, eu sou o Neto 👋*</p>
 *<p align="center">
 Um rapaz cada vez mais apaixonado pelo mundo Dev</p>*
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antonioscn" alt="antonioscn" /> </p>
