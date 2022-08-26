@@ -1,6 +1,6 @@
 ## <p align="center">*Oi, eu sou o Neto 👋*</p>
 *<p align="center">
-Um rapaz cada vez mais apaixonado pelo mundo Dev</p>*
+Um rapaz cada vez mais apaixonado pelo mundo Dev </p>*
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antonioscn" alt="antonioscn" /> </p>
 
 <div align="center">
