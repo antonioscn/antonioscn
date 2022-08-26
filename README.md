@@ -36,7 +36,4 @@ Um rapaz cada vez mais apaixonado pelo mundo Dev </p>*
   <div style="display: inline_block"><br>
   <div style="display: inline_block"><br>
 
-*<p align="center"> Por favor, fique a vontade para clonar projetos e deixar seu feedback. Sempre podemos melhorar! </p>*
-### <p align="center">- - - - - - - - - - *OBRIGADO PELA VISITA* - - - - - - - - - -</p>
-
 ---
