@@ -22,8 +22,6 @@ Vem comigo??</p>*
   <img align="center" alt="Neto-Python" height="30" width="40" src="https://raw.githubusercontent.com/antonioscn/antonioscn/main/icons/python-brands.svg">
   <img align="center" alt="Neto-R" height="30" width="40" src="https://raw.githubusercontent.com/antonioscn/antonioscn/main/icons/r-project-brands.svg">
   <img align="center" alt="Neto-Git" height="30" width="40" src="https://raw.githubusercontent.com/antonioscn/antonioscn/main/icons/git-alt-brands.svg">
-   <img align="right" alt="Neto-pic" height="150" style="border-radius:50px;" 
-  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 </div>
 
   ##
