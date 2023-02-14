@@ -14,10 +14,11 @@ Vem comigo??</p>*
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,angular,figma,py&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,angular,figma,py&theme=dark" />    
+  <img height="300px" width="300" align="right" src="https://raw.githubusercontent.com/antonioscn/portifolio/main/eu.webp">
   </a>
 </p>
-  
+    
   ##
 
  <p align="center"> 
