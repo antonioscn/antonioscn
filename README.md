@@ -1,5 +1,5 @@
-## <p align="center">*Oi, eu sou o Neto 👋*</p>
-*<p align="center">
+## <p align="center"><img src="https://readme-typing-svg.demolab.com?font=poppins&size=19&duration=4000&pause=500&color=F7F7F7&width=435&lines=Oi%2C+eu+sou+o+Neto++%F0%9F%91%8B;Desenvolvedor+Front-End+Jr+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Aspirante+a+Designer+%F0%9F%8E%A8" alt="Typing SVG"/></p>
+<p align="center">
 Um rapaz cada vez mais apaixonado pelo mundo Dev, e aspirante a desenvolvedor FrontEnd.<br>
 Vem comigo??</p>*
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antonioscn" alt="antonioscn" /> </p>
