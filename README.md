@@ -1,4 +1,4 @@
-## <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Noto+sans&size=21&duration=4000&pause=500&color=F7F7F7&center=true&width=435&lines=Oi%2C+eu+sou+o+Neto++%F0%9F%91%8B;Desenvolvedor+Front-End+Jr+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Aspirante+a+Designer+%F0%9F%8E%A8" alt="Typing SVG"/></p>
+## <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Noto+sans&size=21&duration=4000&pause=500&color=F7F7F7&center=true&width=435&lines=Oi%2C+eu+sou+o+Neto++%F0%9F%91%8B;Front-End+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Designer+%F0%9F%8E%A8" alt="Typing SVG"/></p>
 
 <p align="center">
 Um rapaz cada vez mais apaixonado pelo mundo Dev, e aspirante a desenvolvedor FrontEnd.<br>
